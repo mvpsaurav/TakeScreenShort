@@ -1,0 +1,16 @@
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\bin\Debug\net6.0-windows\W from ss.exe
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\W_from_ss.Form1.resources
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\W from ss.csproj.GenerateResource.cache
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\W from ss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\W from ss.AssemblyInfoInputs.cache
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\W from ss.AssemblyInfo.cs
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\W from ss.csproj.CoreCompileInputs.cache
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\W from ss.dll
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\refint\W from ss.dll
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\W from ss.pdb
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\bin\Debug\net6.0-windows\W from ss.deps.json
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\bin\Debug\net6.0-windows\W from ss.runtimeconfig.json
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\bin\Debug\net6.0-windows\W from ss.dll
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\bin\Debug\net6.0-windows\W from ss.pdb
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\W from ss.genruntimeconfig.cache
+D:\Saurav Mishra\Saurav Mishra\Console\W from ss\W from ss\obj\Debug\net6.0-windows\ref\W from ss.dll
